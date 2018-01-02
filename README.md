@@ -1,3 +1,10 @@
+## MUSE是一个多语言词向量python库，它的目标是为社区提供：
+
+* 基于fastText的世界顶尖的多语言词向量
+* 为大型高质量的双语词典做训练和评估
+
+他们包含两个方法，一个是使用了双语词典和相同的字符串的有监督学习，另一个是没有使用任何并行数据的无监督学习。
+
 ## MUSE: Multilingual Unsupervised and Supervised Embeddings
 ![Model](https://s3.amazonaws.com/arrival/outline_all.png)
 
